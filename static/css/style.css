@@ -1,0 +1,13 @@
+/* Applying light font color to webpage */
+body {
+    color:#333;
+    background-color: darksalmon;
+}
+
+/* Assigning the background */
+.jumbotron {
+    background-image: url("../images/belly.gif");
+    background-size: 100% 100%;
+    text-align: center;
+    color:#333
+}
